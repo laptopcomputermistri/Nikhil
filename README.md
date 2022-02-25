@@ -1,7 +1,7 @@
 # Table of Contents
 - [Abstract](Abstract)
 - [INTRODUCTION](INTRODUCTION)
-- [Truth Table of 3:8 Decoder](101)
+- [Truth Table of 3:8 Decoder](Truth)
 - [References](References)
 
 # Abstract
@@ -23,6 +23,8 @@ converts binary information from n input lines to a
 maximum of 2n unique output lines. If the n-bit decoded
 information has unused or don’t-care combinations, the
 decoder output will have less then 2n outputs [2].
+
+# Truth Table of 3:8 Decoder
 
 ![101](https://user-images.githubusercontent.com/93362259/155751585-1ad89136-ab36-4b8d-ae58-d610419d0975.png)
 
