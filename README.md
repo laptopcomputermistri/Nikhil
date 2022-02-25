@@ -1,5 +1,5 @@
 # Table of Contents
-- [Abstract](Abstract)
+- [Abstract](https://github.com/laptopcomputermistri/Nikhil/blob/main/Abstract)
 - [INTRODUCTION](https://github.com/laptopcomputermistri/Nikhil/blob/main/README.md#introduction)
 - [Truth Table of 3:8 Decoder](Truth)
 - [References](References)
