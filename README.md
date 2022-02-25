@@ -3,7 +3,7 @@
 - [INTRODUCTION](https://github.com/laptopcomputermistri/Nikhil/blob/main/README.md#introduction)
 - [Truth Table of 3:8 Decoder](https://github.com/laptopcomputermistri/Nikhil/blob/main/README.md#truth-table-of-38-decoder)
 - [References](https://github.com/laptopcomputermistri/Nikhil#references)
-
+-[Author](https://github.com/laptopcomputermistri/Nikhil#author)
 # Abstract
 The circuit is designed to be used in highperformance memory-decoding or data-routing applications
 requiring very short propagation delay times. In highperformance memory systems, this decoder can be used to
@@ -45,9 +45,13 @@ A.Babaei4
 
 # Acknowledgements
 -[Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)
+
 -[Cloud Based Analog IC Design Hackathon](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/')
+
 -[Synopsys India](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/')
+
 -[Sameer Durgoji, NIT Karnataka](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/')
+
 -[Chinmay panda, IIT Hyderabad](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/')
 
 # Author
