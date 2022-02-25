@@ -1,7 +1,7 @@
 # Table of Contents
 - [Abstract](Abstract)
 - [INTRODUCTION](INTRODUCTION)
-- [Truth Table of 3:8 Decoder](https://user-images.githubusercontent.com/93362259/155751585-1ad89136-ab36-4b8d-ae58-d610419d0975.png)
+- [Truth Table of 3:8 Decoder](101)
 - [References](References)
 
 # Abstract
