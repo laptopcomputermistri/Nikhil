@@ -18,10 +18,16 @@ maximum of 2n unique output lines. If the n-bit decoded
 information has unused or don’t-care combinations, the
 decoder output will have less then 2n outputs [2].
 
+![101](https://user-images.githubusercontent.com/93362259/155751585-1ad89136-ab36-4b8d-ae58-d610419d0975.png)
+
+![102](https://user-images.githubusercontent.com/93362259/155751582-e8238c20-ee2a-4184-b423-3f432df9923e.png)
+
+![102](https://user-images.githubusercontent.com/93362259/155751582-e8238c20-ee2a-4184-b423-3f432df9923e.png)
+
 ![104](https://user-images.githubusercontent.com/93362259/155751569-07f93cb5-ecd1-4e8a-b58a-3dd9cfcc8d62.png)
 
 ![103](https://user-images.githubusercontent.com/93362259/155751577-ca200524-2b6c-4fad-99ba-d2908e32eb07.png)
 
-![102](https://user-images.githubusercontent.com/93362259/155751582-e8238c20-ee2a-4184-b423-3f432df9923e.png)
+!
 
-![101](https://user-images.githubusercontent.com/93362259/155751585-1ad89136-ab36-4b8d-ae58-d610419d0975.png)
+
