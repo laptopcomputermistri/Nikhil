@@ -44,6 +44,7 @@ Spin Field Effect A. A. Suratgar1 , S. Rafiei*2 , A. A. Taherpour3 ,
 A.Babaei4
 
 # Acknowledgements
+
 -[Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)
 
 -[Cloud Based Analog IC Design Hackathon](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/')
