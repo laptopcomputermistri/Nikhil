@@ -26,6 +26,11 @@ decoder output will have less then 2n outputs [2].
 
 ![104](https://user-images.githubusercontent.com/93362259/155751569-07f93cb5-ecd1-4e8a-b58a-3dd9cfcc8d62.png)
 
-
+# References
+[1] Texas Instrument 3:8 decoder/demultiplexer using IC 74AC11138
+[2] M. M. Mano, Digital Design, Prentice Hall, 1984, pp. 167-175
+[3] Design of a Qubit and a Decoder in Quantum Computing Based on a
+Spin Field Effect A. A. Suratgar1 , S. Rafiei*2 , A. A. Taherpour3 ,
+A.Babaei4
 
 
