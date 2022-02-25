@@ -1,7 +1,9 @@
 # Table of Contents
-#abstract
+- [Abstract](Abstract)
+- [INTRODUCTION](INTRODUCTION)
+- [References](References)
 
-# Abstract—
+# Abstract
 The circuit is designed to be used in highperformance memory-decoding or data-routing applications
 requiring very short propagation delay times. In highperformance memory systems, this decoder can be used to
 minimize the effects of system decoding. When employed with
@@ -11,7 +13,7 @@ usually less than the typical access time of the memory. This
 means that the effective system delay introduced by the
 decoder is negligible.
 
-# I. INTRODUCTION
+# INTRODUCTION
 Decoder Discrete quantities of information are represented
 in digital system with binary codes. A binary code of n bits
 is capable of representing up to distinct elements of the
