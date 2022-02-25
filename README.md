@@ -1,4 +1,5 @@
-Abstract—The circuit is designed to be used in highperformance memory-decoding or data-routing applications
+Abstract—
+The circuit is designed to be used in highperformance memory-decoding or data-routing applications
 requiring very short propagation delay times. In highperformance memory systems, this decoder can be used to
 minimize the effects of system decoding. When employed with
 high-speed memories utilizing a fast enable circuit, the delay
