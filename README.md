@@ -3,7 +3,7 @@
 - [INTRODUCTION](https://github.com/laptopcomputermistri/Nikhil/blob/main/README.md#introduction)
 - [Truth Table of 3:8 Decoder](https://github.com/laptopcomputermistri/Nikhil/blob/main/README.md#truth-table-of-38-decoder)
 - [References](https://github.com/laptopcomputermistri/Nikhil#references)
--[Author](https://github.com/laptopcomputermistri/Nikhil#author)
+- [Author](https://github.com/laptopcomputermistri/Nikhil#author)
 # Abstract
 The circuit is designed to be used in highperformance memory-decoding or data-routing applications
 requiring very short propagation delay times. In highperformance memory systems, this decoder can be used to
