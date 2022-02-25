@@ -1,8 +1,8 @@
 # Table of Contents
 - [Abstract](https://github.com/laptopcomputermistri/Nikhil/blob/main/Abstract)
 - [INTRODUCTION](https://github.com/laptopcomputermistri/Nikhil/blob/main/README.md#introduction)
-- [Truth Table of 3:8 Decoder](Truth)
-- [References](References)
+- [Truth Table of 3:8 Decoder](https://github.com/laptopcomputermistri/Nikhil/blob/main/README.md#truth-table-of-38-decoder)
+- [References](https://github.com/laptopcomputermistri/Nikhil#references)
 
 # Abstract
 The circuit is designed to be used in highperformance memory-decoding or data-routing applications
@@ -43,4 +43,14 @@ decoder output will have less then 2n outputs [2].
 Spin Field Effect A. A. Suratgar1 , S. Rafiei*2 , A. A. Taherpour3 ,
 A.Babaei4
 
+# Acknowledgements
+-[Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)
+-[Cloud Based Analog IC Design Hackathon](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/')
+-[Synopsys India](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/')
+-[Sameer Durgoji, NIT Karnataka](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/')
+-[Chinmay panda, IIT Hyderabad](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/')
+
+# Author
+
+The author NIKHIL is studying Embedded Systems Master's M.Tech. at NIT Jamshedpur. He has also attended SRM Chennai, SMVDU Katra, NIT KUrukshetra, IIT-ISM Dhanbad in Past. 
 
