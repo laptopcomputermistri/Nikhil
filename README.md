@@ -1,5 +1,5 @@
 # Table of Contents
-!(https://github.com/laptopcomputermistri/Nikhil/edit/main/README.md#abstract)
+#abstract
 
 # Abstract—
 The circuit is designed to be used in highperformance memory-decoding or data-routing applications
