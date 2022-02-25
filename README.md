@@ -1,4 +1,4 @@
-[32 bit decoder.docx](https://github.com/laptopcomputermistri/Nikhil/files/8142671/32.bit.decoder.docx)
+#
 Abstract—
 The circuit is designed to be used in highperformance memory-decoding or data-routing applications
 requiring very short propagation delay times. In highperformance memory systems, this decoder can be used to
