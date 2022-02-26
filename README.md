@@ -59,7 +59,7 @@ decoder output will have less then 2n outputs [2].
 ## Simulation/Testbench Circuit
 ![5-32 Decoder Tb](https://user-images.githubusercontent.com/93362259/155827821-27c27b9f-bebf-4669-9699-cade4e84b2f5.png)
 
-## Output Waveform of 5-32 bit Decoder
+## Output Waveform of 5-32 bit Decoder (NOTE : Active LOW)
 ![32 bit decoder waveform](https://user-images.githubusercontent.com/93362259/155827820-fbb52eaa-ffc1-49b6-bdc7-2937a49953ec.png)
 
 ![32 bit decoder waveform 2](https://user-images.githubusercontent.com/93362259/155827818-ec7ebb87-3384-449f-bf2b-b0a0545af8e1.png)
