@@ -2,6 +2,7 @@
 - [Abstract](https://github.com/laptopcomputermistri/Nikhil/blob/main/Abstract)
 - [INTRODUCTION](https://github.com/laptopcomputermistri/Nikhil/blob/main/README.md#introduction)
 - [Truth Table of 3:8 Decoder](https://github.com/laptopcomputermistri/Nikhil/blob/main/README.md#truth-table-of-38-decoder)
+- [Circuits and Waveforms]()
 - [References](https://github.com/laptopcomputermistri/Nikhil#references)
 - [Author](https://github.com/laptopcomputermistri/Nikhil#author)
 # Abstract
@@ -33,6 +34,26 @@ decoder output will have less then 2n outputs [2].
 ![103](https://user-images.githubusercontent.com/93362259/155751577-ca200524-2b6c-4fad-99ba-d2908e32eb07.png)
 
 ![104](https://user-images.githubusercontent.com/93362259/155751569-07f93cb5-ecd1-4e8a-b58a-3dd9cfcc8d62.png)
+
+# Circuits and Waveforms
+
+![Inverter](https://user-images.githubusercontent.com/93362259/155827830-f0ef1e8a-1046-4481-8ee6-ec0ba2aa2540.png)
+
+![Inverter TB](https://user-images.githubusercontent.com/93362259/155827829-e9bb29fb-e3d4-402e-b767-350fa1c28d7f.png)
+
+![3 INPUT AND](https://user-images.githubusercontent.com/93362259/155827827-62e67f62-526b-49a8-b8af-6a6087e761eb.png)
+
+![3-8 decoder waveform](https://user-images.githubusercontent.com/93362259/155827825-60cc442a-82a6-4ca9-9e31-1c0d146725eb.png)
+
+![4-16 bit decoder](https://user-images.githubusercontent.com/93362259/155827824-c10e8326-c54c-48ad-ad9a-d264139ab951.png)
+
+![5-32 Decoder](https://user-images.githubusercontent.com/93362259/155827823-0569408d-d7a9-4455-b569-d14c9981de92.png)
+
+![5-32 Decoder Tb](https://user-images.githubusercontent.com/93362259/155827821-27c27b9f-bebf-4669-9699-cade4e84b2f5.png)
+
+![32 bit decoder waveform](https://user-images.githubusercontent.com/93362259/155827820-fbb52eaa-ffc1-49b6-bdc7-2937a49953ec.png)
+
+![32 bit decoder waveform 2](https://user-images.githubusercontent.com/93362259/155827818-ec7ebb87-3384-449f-bf2b-b0a0545af8e1.png)
 
 # References
 [1] Texas Instrument 3:8 decoder/demultiplexer using IC 74AC11138
