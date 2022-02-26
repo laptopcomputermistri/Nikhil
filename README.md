@@ -87,5 +87,5 @@ A.Babaei4
 
 # Author
 
-The author NIKHIL is studying Embedded Systems Master's M.Tech. at NIT Jamshedpur. He has also attended SRM Chennai, SMVDU Katra, NIT Kurukshetra, IIT-ISM Dhanbad in Past. 
+The author NIKHIL is studying Embedded Systems Master's M.Tech. at NIT Jamshedpur. He has also attended SRM Chennai, SMVDU Katra, NIT Kurukshetra, IIT-ISM Dhanbad in Past. For any query send eMail to laptopcomputermistri@gmail.com . 
 
