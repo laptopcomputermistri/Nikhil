@@ -1,4 +1,4 @@
-## 5-Line-to-32 line-Decoder/Demultiplexer using IC 74AC11138 i.e. 3:8 Decoder/Demultiplexer
+# 5-Line-to-32 line-Decoder/Demultiplexer using IC 74AC11138 i.e. 3:8 Decoder/Demultiplexer
 
 # Table of Contents
 - [Abstract](https://github.com/laptopcomputermistri/Nikhil/blob/main/README.md#abstract)
