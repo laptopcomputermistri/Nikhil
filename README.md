@@ -5,6 +5,7 @@
 - [INTRODUCTION](https://github.com/laptopcomputermistri/Nikhil/blob/main/README.md#introduction)
 - [Truth Table of 3:8 Decoder](https://github.com/laptopcomputermistri/Nikhil/blob/main/README.md#truth-table-of-38-decoder)
 - [Circuits and Waveforms](https://github.com/laptopcomputermistri/Nikhil/blob/main/README.md#circuits-and-waveforms)
+- 
 -- [Inverter](https://github.com/laptopcomputermistri/Nikhil#inveter)
 -- [3 input AND](https://github.com/laptopcomputermistri/Nikhil#3-input-and)
 -- [3-8 Decoder](https://github.com/laptopcomputermistri/Nikhil#3-8-decoder-waveform)
@@ -12,6 +13,7 @@
 -- [5-32 Decoder using 3-8 Decoder](https://github.com/laptopcomputermistri/Nikhil#5-32-decoder-using-3-8-decoder)
 -- [Simulation/Testbench Circuit](https://github.com/laptopcomputermistri/Nikhil#simulationtestbench-circuit)
 -- [https://github.com/laptopcomputermistri/Nikhil#output-waveform-of-5-32-bit-decoder-note--active-low](https://github.com/laptopcomputermistri/Nikhil#output-waveform-of-5-32-bit-decoder-note--active-low)
+
 - [References](https://github.com/laptopcomputermistri/Nikhil#references)
 - [Acknowledgements](https://github.com/laptopcomputermistri/Nikhil/blob/main/README.md#acknowledgements)
 - [Author](https://github.com/laptopcomputermistri/Nikhil#author)
