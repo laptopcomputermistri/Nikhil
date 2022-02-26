@@ -24,9 +24,9 @@ in digital system with binary codes. A binary code of n bits
 is capable of representing up to distinct elements of the
 coded information. A decoder is a combinational circuit that
 converts binary information from n input lines to a
-maximum of 2n unique output lines. If the n-bit decoded
+maximum of 2^n unique output lines. If the n-bit decoded
 information has unused or don’t-care combinations, the
-decoder output will have less then 2n outputs [2].
+decoder output will have less then 2^n outputs [2].
 
 # Truth Table of 3:8 Decoder
 
