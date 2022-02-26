@@ -4,6 +4,7 @@
 - [Truth Table of 3:8 Decoder](https://github.com/laptopcomputermistri/Nikhil/blob/main/README.md#truth-table-of-38-decoder)
 - [Circuits and Waveforms](https://github.com/laptopcomputermistri/Nikhil/blob/main/README.md#circuits-and-waveforms)
 - [References](https://github.com/laptopcomputermistri/Nikhil#references)
+- [Acknowledgement](https://github.com/laptopcomputermistri/Nikhil/blob/main/README.md#acknowledgements)
 - [Author](https://github.com/laptopcomputermistri/Nikhil#author)
 # Abstract
 The circuit is designed to be used in highperformance memory-decoding or data-routing applications
