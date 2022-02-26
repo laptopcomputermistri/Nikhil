@@ -2,7 +2,7 @@
 - [Abstract](https://github.com/laptopcomputermistri/Nikhil/blob/main/Abstract)
 - [INTRODUCTION](https://github.com/laptopcomputermistri/Nikhil/blob/main/README.md#introduction)
 - [Truth Table of 3:8 Decoder](https://github.com/laptopcomputermistri/Nikhil/blob/main/README.md#truth-table-of-38-decoder)
-- [Circuits and Waveforms]()
+- [Circuits and Waveforms](https://github.com/laptopcomputermistri/Nikhil/blob/main/README.md#circuits-and-waveforms)
 - [References](https://github.com/laptopcomputermistri/Nikhil#references)
 - [Author](https://github.com/laptopcomputermistri/Nikhil#author)
 # Abstract
