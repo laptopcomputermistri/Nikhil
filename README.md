@@ -1,3 +1,5 @@
+## 5-Line-to-32 line-Decoder/Demultiplexer using IC 74AC11138 i.e. 3:8 Decoder/Demultiplexer
+
 # Table of Contents
 - [Abstract](https://github.com/laptopcomputermistri/Nikhil/blob/main/README.md#abstract)
 - [INTRODUCTION](https://github.com/laptopcomputermistri/Nikhil/blob/main/README.md#introduction)
@@ -7,7 +9,7 @@
 - [Acknowledgements](https://github.com/laptopcomputermistri/Nikhil/blob/main/README.md#acknowledgements)
 - [Author](https://github.com/laptopcomputermistri/Nikhil#author)
 # Abstract
-The circuit is designed to be used in highperformance memory-decoding or data-routing applications
+The circuit is designed to be used in high performance memory-decoding or data-routing applications
 requiring very short propagation delay times. In highperformance memory systems, this decoder can be used to
 minimize the effects of system decoding. When employed with
 high-speed memories utilizing a fast enable circuit, the delay
