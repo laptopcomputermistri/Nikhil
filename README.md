@@ -1,5 +1,5 @@
 # Table of Contents
-- [Abstract](https://github.com/laptopcomputermistri/Nikhil/blob/main/Abstract)
+- [Abstract](https://github.com/laptopcomputermistri/Nikhil/blob/main/README.md#abstract)
 - [INTRODUCTION](https://github.com/laptopcomputermistri/Nikhil/blob/main/README.md#introduction)
 - [Truth Table of 3:8 Decoder](https://github.com/laptopcomputermistri/Nikhil/blob/main/README.md#truth-table-of-38-decoder)
 - [Circuits and Waveforms](https://github.com/laptopcomputermistri/Nikhil/blob/main/README.md#circuits-and-waveforms)
