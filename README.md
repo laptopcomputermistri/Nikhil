@@ -72,6 +72,7 @@ decoder output will have less then 2^n outputs [2].
 ![32 bit decoder waveform 2](https://user-images.githubusercontent.com/93362259/155827818-ec7ebb87-3384-449f-bf2b-b0a0545af8e1.png)
 
 # Netlist
+![netlist.docx](https://github.com/laptopcomputermistri/Nikhil/files/8146826/netlist.docx)
 
 # References
 [1] Texas Instrument 3:8 decoder/demultiplexer using IC 74AC11138
