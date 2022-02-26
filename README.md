@@ -33,16 +33,30 @@ coded information. A decoder is a combinational circuit that
 converts binary information from n input lines to a
 maximum of 2^n unique output lines. If the n-bit decoded
 information has unused or don’t-care combinations, the
-decoder output will have less then 2^n outputs [2].
+decoder output will have less then 2^n outputs [2].In Digital Electronics, discrete quantities of information are represented by binary codes. A binary code of n bits is capable of representing up to 2^n distinct elements of coded information. The name “Decoder” means to translate or decode coded information from one format into another, so a digital decoder transforms a set of digital input signals into an equivalent decimal code at its output. A decoder is a combinational circuit that converts binary information from n input lines to a maximum of 2^n unique output lines. 
+Binary Decoder –
+Binary Decoders are another type of digital logic device that has inputs of 2-bit, 3-bit or 4-bit codes depending upon the number of data input lines, so a decoder that has a set of two or more bits will be defined as having an n-bit code, and therefore it will be possible to represent 2^n possible values.
+If a binary decoder receives n inputs it activates one and only one of its 2^n outputs based on that input with all other outputs deactivated. If the n -bit coded information has unused combinations, the decoder may have fewer than 2^n outputs.
+Example, an inverter ( NOT-gate ) can be classified as a 1-to-2 binary decoder as 1-input and 2-outputs is possible. i.e an input A can give either A or A complement as the output.
+Then we can say that a standard combinational logic decoder is an n-to-m decoder, where m <= 2^n, and whose output, Q is dependent only on its present input states.
+Their purpose is to generate the 2^n (or fewer) minterms of n input variables. Each combination of inputs will assert a unique output.
+A Binary Decoder converts coded inputs into coded outputs, where the input and output codes are different and decoders are available to “decode” either a Binary or BCD (8421 code) input pattern to typically a Decimal output code.
+Practical “binary decoder” circuits include 2-to-4, 3-to-8 and 4-to-16 line configurations.
 
 # Truth Table of 3:8 Decoder
 
 ![101](https://user-images.githubusercontent.com/93362259/155751585-1ad89136-ab36-4b8d-ae58-d610419d0975.png)
 
+The combinational circuit that change the binary information into 2^N output lines is known as Decoders. The binary information is passed in the form of N input lines. The output lines define the 2N-bit code for the binary information. In simple words, the Decoder performs the reverse operation of the Encoder. At a time, only one input line is activated for simplicity. The produced 2^N-bit output code is equivalent to the binary information.
+
 ![102](https://user-images.githubusercontent.com/93362259/155751582-e8238c20-ee2a-4184-b423-3f432df9923e.png)
+
+3 to 8 line decoder:
+The 3 to 8 line decoder is also known as Binary to Octal Decoder. In a 3 to 8 line decoder, there is a total of eight outputs, i.e., Y0, Y1, Y2, Y3, Y4, Y5, Y6, and Y7 and three outputs, i.e., A0, A1, and A2. This circuit has an enable input 'E'. Just like 2 to 4 line decoder, when enable 'E' is set to 1, one of these four outputs will be 1. The block diagram and the truth table of the 3 to 8 line encoder are given below.
 
 ![103](https://user-images.githubusercontent.com/93362259/155751577-ca200524-2b6c-4fad-99ba-d2908e32eb07.png)
 
+## A diagram for 32 bit decoding Scheme
 ![104](https://user-images.githubusercontent.com/93362259/155751569-07f93cb5-ecd1-4e8a-b58a-3dd9cfcc8d62.png)
 
 # Circuits and Waveforms
@@ -61,6 +75,8 @@ decoder output will have less then 2^n outputs [2].
 ![4-16 bit decoder](https://user-images.githubusercontent.com/93362259/155827824-c10e8326-c54c-48ad-ad9a-d264139ab951.png)
 
 ## 5-32 Decoder using 3-8 Decoder
+In this Circuit diagram 5 x 3:8 decoder and 4 inverters are used
+
 ![5-32 Decoder](https://user-images.githubusercontent.com/93362259/155827823-0569408d-d7a9-4455-b569-d14c9981de92.png)
 
 ## Simulation/Testbench Circuit
