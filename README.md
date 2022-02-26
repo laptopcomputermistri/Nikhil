@@ -7,7 +7,7 @@
 - [Circuits and Waveforms](https://github.com/laptopcomputermistri/Nikhil/blob/main/README.md#circuits-and-waveforms)
 - - [Inverter](https://github.com/laptopcomputermistri/Nikhil#inveter)
 - - [3 input AND](https://github.com/laptopcomputermistri/Nikhil#3-input-and)
-- - [3-8 Decoder](https://github.com/laptopcomputermistri/Nikhil#3-8-decoder-waveform)
+- - [3-8 Decoder waveform (NOTE : Active LOW)](https://github.com/laptopcomputermistri/Nikhil#3-8-decoder-waveform)
 - - [4-16 bit decoder using 3-8 Decoder](https://github.com/laptopcomputermistri/Nikhil#4-16-bit-decoder-using-3-8-decoder)
 - - [5-32 Decoder using 3-8 Decoder](https://github.com/laptopcomputermistri/Nikhil#5-32-decoder-using-3-8-decoder)
 - - [Simulation/Testbench Circuit](https://github.com/laptopcomputermistri/Nikhil#simulationtestbench-circuit)
@@ -54,7 +54,7 @@ decoder output will have less then 2^n outputs [2].
 ## 3 Input AND
 ![3 INPUT AND](https://user-images.githubusercontent.com/93362259/155827827-62e67f62-526b-49a8-b8af-6a6087e761eb.png)
 
-## 3-8 decoder waveform
+## 3-8 decoder waveform (NOTE : Active LOW)
 ![3-8 decoder waveform](https://user-images.githubusercontent.com/93362259/155827825-60cc442a-82a6-4ca9-9e31-1c0d146725eb.png)
 
 ## 4-16 bit decoder using 3-8 Decoder
