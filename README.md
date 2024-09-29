@@ -60,7 +60,7 @@ The 3 to 8 line decoder is also known as Binary to Octal Decoder. In a 3 to 8 li
 ![104](https://user-images.githubusercontent.com/93362259/155751569-07f93cb5-ecd1-4e8a-b58a-3dd9cfcc8d62.png)
 
 # Circuits and Waveforms
-## Inveter
+## Inverter
 ![Inverter](https://user-images.githubusercontent.com/93362259/155827830-f0ef1e8a-1046-4481-8ee6-ec0ba2aa2540.png)
 
 ![Inverter TB](https://user-images.githubusercontent.com/93362259/155827829-e9bb29fb-e3d4-402e-b767-350fa1c28d7f.png)
